@@ -1,1 +1,1 @@
-# analise-de-frequ-ncia-de-palavras-
+# analise-de-frequencia-de-palavras-
